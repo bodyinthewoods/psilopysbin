@@ -7,7 +7,7 @@
 
 
 
-<img align="left" width="170" height="170" src="https://github.com/user-attachments/assets/8902ff37-239e-4c88-9529-f5aa58c2b60d">
+<img align="left" width="170" height="170" src="https://user-images.githubusercontent.com/123886904/218268944-995c6c60-51bc-4f8f-bcd4-407c3f5f2ad2.gif">
 
 ```
 psilopysbin@GitHub
