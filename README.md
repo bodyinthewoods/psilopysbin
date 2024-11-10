@@ -1,6 +1,6 @@
 ```
 ┌[psilopsybin@lowhp]-(~)
-└>+ psybinfetch +
+└> psybinfetch
 ```
 
 
