@@ -18,3 +18,5 @@ Interests: ["Linux", "CyberSecurity", "FOSS"]
 OS: ArchLinux
 WM: i3WM
 ```
+
+                                                                 medjeds.neocities.org
