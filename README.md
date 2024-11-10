@@ -1,6 +1,6 @@
 ```
 ┌[psilopsybin@lowhp]-(~)
-└> @@ psybinfetch
+└> psybinfetch
 ```
 
 
@@ -9,7 +9,7 @@
 
 
 ```
-psilopsybin@medjed
+psilopsybin@GitHub
 -----------------
 Name: psybin
 Languages: ["HTML", "CSS"]
