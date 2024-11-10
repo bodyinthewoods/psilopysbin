@@ -1,2 +1,2 @@
-`┌[psilopsybin☮lowhp]-(~)`
-`└> psybinfetch`
+ ┌[psilopsybin☮lowhp]-(~)
+ └> psybinfetch
