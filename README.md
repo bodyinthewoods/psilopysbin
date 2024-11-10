@@ -1,0 +1,2 @@
+┌[psilopsybin☮lowhp]-(~)
+└> psybinfetch
