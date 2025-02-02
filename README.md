@@ -18,4 +18,3 @@ Interests: ["Linux", "CyberSecurity", "FOSS"]
 OS: ArchLinux
 WM: i3WM
 ```
-https://medjed.nya.pub
